@@ -5,7 +5,6 @@
       fetch=".." 
       review ="git@github.com:wangbinbinchina/" />
     <default remote="wangbinbinchina" revision="master"/>
-    <project path="Android_APK" name="Android_APK"/>
     <project path="MyFirstGitProject" name="MyFirstGitProject"/>
     <project path="TEST2" name="TEST2"/>
     <project path="AboutGit" name="AboutGit"/>
