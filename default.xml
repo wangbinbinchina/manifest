@@ -2,7 +2,7 @@
 
 <manifest>
     <remote name="wangbinbinchina" 
-      fetch=".." 
+      fetch="." 
       review ="git@github.com:wangbinbinchina/" />
     <default remote="wangbinbinchina" revision="master"/>
     <project path="Android_APK" name="Android_APK"/>
